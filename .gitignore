@@ -3,3 +3,6 @@
 
 # Original code
 code-samples/
+
+# Python cache
+__pycache__/
