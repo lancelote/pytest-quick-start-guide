@@ -13,6 +13,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Check warnings](src/chapter2/test_checking_warnings.py)
     - [x] [Compare floats](src/chapter2/test_compare_float.py)
     - [x] [Capture output](src/chapter2/test_capture_output.py)
+    - [ ] [Traceback modes](src/chapter2/test_traceback.py)
 - [ ] Chapter 3
 - [ ] Chapter 4
 - [ ] Chapter 5
