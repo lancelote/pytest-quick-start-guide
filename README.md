@@ -7,13 +7,15 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
 - [x] [Chapter 1](src/chapter1)
     - [x] [Simple unittest example](src/chapter1/test_unittest.py)
     - [x] [Simple pytest example](src/chapter1/test_pytest.py)
-- [ ] Chapter 2
+- [x] Chapter 2
     - [x] [Basic assertions](src/chapter2/test_basic_assertions.py)
     - [x] [Check exceptions](src/chapter2/test_checking_exceptions.py)
     - [x] [Check warnings](src/chapter2/test_checking_warnings.py)
     - [x] [Compare floats](src/chapter2/test_compare_float.py)
     - [x] [Capture output](src/chapter2/test_capture_output.py)
     - [x] [Traceback modes](src/chapter2/test_traceback.py)
+    - [x] [Slow tests](src/chapter2/test_slow_tests.py)
+    - [x] [Extra test summary](src/chapter2/test_last_failed.py)
 - [ ] Chapter 3
 - [ ] Chapter 4
 - [ ] Chapter 5
