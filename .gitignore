@@ -1,5 +1,6 @@
 # PyCharm config
-.idea/
+.idea/*
+!.idea/runConfigurations
 
 # Original code
 code-samples/
