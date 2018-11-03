@@ -24,7 +24,8 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`xfail` mark](src/chapter3/test_xfail.py)
     - [x] [Parametrization](src/chapter3/test_parametrization.py)
     - [x] [Test multiple implementations](src/chapter3/test_multiple_implementations.py)
-- [ ] Chapter 4
+- [ ] [Chapter 4](src/chapter4)
+    - [x] [Basic fixtures](src/chapter4/test_introducing_fixtures.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
