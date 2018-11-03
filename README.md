@@ -21,6 +21,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`skipif` mark](src/chapter3/test_skipif.py)
     - [x] [imperative `skip`](src/chapter3/test_skip.py)
     - [x] [`importorskip` mark](src/chapter3/test_importorskip.py)
+    - [x] [`xfail` mark](src/chapter3/test_xfail.py)
 - [ ] Chapter 4
 - [ ] Chapter 5
 - [ ] Chapter 6
