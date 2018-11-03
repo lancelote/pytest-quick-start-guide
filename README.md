@@ -16,13 +16,14 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Traceback modes](src/chapter2/test_traceback.py)
     - [x] [Slow tests](src/chapter2/test_slow_tests.py)
     - [x] [Extra test summary](src/chapter2/test_last_failed.py)
-- [ ] [Chapter 3](src/chapter3)
+- [x] [Chapter 3](src/chapter3)
     - [x] [Using marks](src/chapter3/test_marks.py)
     - [x] [`skipif` mark](src/chapter3/test_skipif.py)
     - [x] [Imperative `skip`](src/chapter3/test_skip.py)
     - [x] [`importorskip` mark](src/chapter3/test_importorskip.py)
     - [x] [`xfail` mark](src/chapter3/test_xfail.py)
     - [x] [Parametrization](src/chapter3/test_parametrization.py)
+    - [x] [Test multiple implementations](src/chapter3/test_multiple_implementations.py)
 - [ ] Chapter 4
 - [ ] Chapter 5
 - [ ] Chapter 6
