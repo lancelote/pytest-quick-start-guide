@@ -27,6 +27,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
 - [ ] [Chapter 4](src/chapter4)
     - [x] [Basic fixtures](src/chapter4/test_introducing_fixtures.py)
     - [x] [Database test example](src/chapter4/test_database)
+    - [x] [Fixture autouse](src/chapter4/test_autouse.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
