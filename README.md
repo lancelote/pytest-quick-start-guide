@@ -30,6 +30,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Fixture autouse](src/chapter4/test_autouse.py)
     - [x] [`usefixtures` call](src/chapter4/test_usefixtures.py)
     - [x] [Fixture parametrization](src/chapter4/test_parametrize_fixtures.py)
+    - [x] [Use marks in fixtures](src/chapter4/test_marks_from_fixtures.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
