@@ -14,4 +14,4 @@ def setup_locale(request):
 
 @pytest.mark.change_locale('pt_BR')
 def test_currency_us():
-    assert locale.currency(10.5) == '$10.50'
+    assert locale.currency(10.5) == '10,50 R$'
