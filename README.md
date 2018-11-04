@@ -32,6 +32,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Fixture parametrization](src/chapter4/test_parametrize_fixtures.py)
     - [x] [Use marks in fixtures](src/chapter4/test_marks_from_fixtures.py)
     - [x] [`tmpdir`](src/chapter4/test_tmpdir.py)
+    - [x] [`tmpdir_factory`](src/chapter4/test_tmpdir_factory.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
