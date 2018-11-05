@@ -37,6 +37,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`capsys` and `capfd` fixtures](src/chapter4/test_capsys_capfd.py)
     - [x] [`request` fixture](src/chapter4/test_request.py)
     - [x] [Fixture usage example](src/chapter4/test_when_to_use_fixtures.py)
+    - [x] [Renaming fixtures](src/chapter4/test_renaming_fixtures.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
