@@ -35,6 +35,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`tmpdir_factory`](src/chapter4/test_tmpdir_factory.py)
     - [x] [`monkeypatch](src/chapter4/test_monkeypatch.py)
     - [x] [`capsys` and `capfd` fixtures](src/chapter4/test_capsys_capfd.py)
+    - [x] [`request` fixture](src/chapter4/test_request.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
