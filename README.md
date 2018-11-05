@@ -24,7 +24,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`xfail` mark](src/chapter3/test_xfail.py)
     - [x] [Parametrization](src/chapter3/test_parametrization.py)
     - [x] [Test multiple implementations](src/chapter3/test_multiple_implementations.py)
-- [ ] [Chapter 4](src/chapter4)
+- [x] [Chapter 4](src/chapter4)
     - [x] [Basic fixtures](src/chapter4/test_introducing_fixtures.py)
     - [x] [Database test example](src/chapter4/test_database)
     - [x] [Fixture autouse](src/chapter4/test_autouse.py)
@@ -39,6 +39,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Fixture usage example](src/chapter4/test_when_to_use_fixtures.py)
     - [x] [Renaming fixtures](src/chapter4/test_renaming_fixtures.py)
     - [x] [Prefer local imports](src/chapter4/test_prefer_local_imports.py)
+    - [x] [Supporting fixtures](src/chapter4/test_supporting_fixtures.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
