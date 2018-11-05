@@ -33,6 +33,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Use marks in fixtures](src/chapter4/test_marks_from_fixtures.py)
     - [x] [`tmpdir`](src/chapter4/test_tmpdir.py)
     - [x] [`tmpdir_factory`](src/chapter4/test_tmpdir_factory.py)
+    - [x] [`monkeypatch](src/chapter4/test_monkeypatch.py)
 - [ ] Chapter 5
 - [ ] Chapter 6
 
