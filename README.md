@@ -40,7 +40,8 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [Renaming fixtures](src/chapter4/test_renaming_fixtures.py)
     - [x] [Prefer local imports](src/chapter4/test_prefer_local_imports.py)
     - [x] [Supporting fixtures](src/chapter4/test_supporting_fixtures.py)
-- [ ] Chapter 5
+- [ ] [Chapter 5](src/chapter5)
+    - [x] [`pytest-mock` plugin](src/chapter5/test_pytest_mock.py)
 - [ ] Chapter 6
 
  [1]: https://www.goodreads.com/book/show/41632891-pytest-quick-start-guide
