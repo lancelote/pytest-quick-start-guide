@@ -45,6 +45,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`pytest-selenium` plugin](src/chapter5/test_pytest_selenium.py)
     - [x] [`pytest-timeout` plugin](src/chapter5/test_pytest_timeout.py)
     - [x] [`pytest-annotate` plugin](src/chapter5/test_pytest_annotate.py)
+    - [x] [`pytest-qt` plugin](src/chapter5/test_pytest_qt.py)
 - [ ] Chapter 6
 
  [1]: https://www.goodreads.com/book/show/41632891-pytest-quick-start-guide
