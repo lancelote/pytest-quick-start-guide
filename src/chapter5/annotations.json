@@ -1,0 +1,20 @@
+[
+  {
+    "path": "src/chapter5/test_pytest_annotate.py",
+    "line": 4,
+    "func_name": "highest_rated",
+    "type_comments": [
+      "(List[Tuple[str, int, float]]) -> str"
+    ],
+    "samples": 1
+  },
+  {
+    "path": "src/chapter5/test_pytest_annotate.py",
+    "line": 8,
+    "func_name": "test_highest_rated",
+    "type_comments": [
+      "() -> None"
+    ],
+    "samples": 1
+  }
+]

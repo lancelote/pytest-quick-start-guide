@@ -2,4 +2,5 @@ pytest
 pytest-mock
 pytest-selenium
 pytest-timeout
+pytest-annotate
 numpy
