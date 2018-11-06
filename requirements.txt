@@ -4,4 +4,5 @@ pytest-selenium
 pytest-timeout
 pytest-annotate
 pytest-qt
+pytest-datadir
 numpy

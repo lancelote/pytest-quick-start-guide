@@ -46,6 +46,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`pytest-timeout` plugin](src/chapter5/test_pytest_timeout.py)
     - [x] [`pytest-annotate` plugin](src/chapter5/test_pytest_annotate.py)
     - [x] [`pytest-qt` plugin](src/chapter5/test_pytest_qt.py)
+    - [x] [`pytest-datadir` plugin](src/chapter5/test_pytest_datadir.py)
 - [ ] Chapter 6
 
  [1]: https://www.goodreads.com/book/show/41632891-pytest-quick-start-guide
