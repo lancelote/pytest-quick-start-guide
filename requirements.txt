@@ -5,4 +5,5 @@ pytest-timeout
 pytest-annotate
 pytest-qt
 pytest-datadir
+pytest-regressions
 numpy
