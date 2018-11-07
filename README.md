@@ -49,5 +49,6 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`pytest-datadir` plugin](src/chapter5/test_pytest_datadir.py)
 - [ ] [Chapter 6](src/chapter6)
     - [x] [Reusing code with fixtures](src/chapter6/test_reusing_code.py)
+    - [x] [Refactoring test utilities](src/chapter6/test_refactoring_test_utilities.py)
 
  [1]: https://www.goodreads.com/book/show/41632891-pytest-quick-start-guide
