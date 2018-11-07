@@ -47,6 +47,7 @@ Code samples from "[pytest Quick Start Guide][1]" book by Bruno Oliveira
     - [x] [`pytest-annotate` plugin](src/chapter5/test_pytest_annotate.py)
     - [x] [`pytest-qt` plugin](src/chapter5/test_pytest_qt.py)
     - [x] [`pytest-datadir` plugin](src/chapter5/test_pytest_datadir.py)
-- [ ] Chapter 6
+- [ ] [Chapter 6](src/chapter6)
+    - [x] [Reusing code with fixtures](src/chapter6/test_reusing_code.py)
 
  [1]: https://www.goodreads.com/book/show/41632891-pytest-quick-start-guide
